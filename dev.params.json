@@ -1,0 +1,17 @@
+{
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "env": {
+      "value": "dev"
+    },
+    "location": {
+      "value": "westus3"
+    },
+    "azureAdAdminLogin": {
+      "value": "sqladmins"
+    },
+    "azureAdAdminObjectId": {
+      "value": "690f43d5-c71e-4845-9787-b00ad9912bb9"
+    }
+  }
+}
